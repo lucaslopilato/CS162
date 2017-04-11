@@ -1,0 +1,2 @@
+-- Result: false
+true && false
